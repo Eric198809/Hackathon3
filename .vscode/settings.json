@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Essai1.sln"
+    "dotnet.defaultSolution": "Hackathon3.sln"
 }
