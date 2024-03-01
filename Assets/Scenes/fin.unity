@@ -272,11 +272,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "<SIZE=250><B>Chicken Chase</B>\r</SIZE>\n\r\n<B>Develloppeur: ERIC & IOANA\r</B>\n\r\nUn
-    dou de choc     \n \r<3 \n\r\n\r\n(P.S. c'est Eric qui a fait 70% de la partie
-    compliquee, merci enormement a mon bin\xF4me :) ) \r\n\r\n\nJ'espere que ca vous
+  m_text: "<SIZE=250><B>Chicken Chase</B>\r</SIZE>\n\r\n\n\n<B>Develloppeur: ERIC
+    & IOANA\r</B>\n\r\n\n\nUn duo de choc     \n \r<3 \n\r\n\r\nJ'espere que ca vous
     a plu et rester connecter pour des futures mises a jour avec des nouveaux niveaux
-    fascinants >_<\n\nMerci a vous!"
+    fascinants >_<\n\n\n\nMerci a vous!"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
   m_sharedMaterial: {fileID: 2140032, guid: dc36b3fdc14f47ebb36fd484a67e268a, type: 2}
